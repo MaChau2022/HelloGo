@@ -5,10 +5,10 @@ import "fmt"
 func useLoop() {
 	list := [4]string{"Alice", "Bob", "Cassandra", "Dove"}
 	dict := map[string]string{
-		"Alice":     "A+",
-		"Bob":       "B",
-		"Cassandra": "F",
-		"Dove":      "A-",
+		"Alice":     "MA",
+		"Bob":       "NJ",
+		"Cassandra": "OR",
+		"Dove":      "CA",
 	}
 
 	for i := 0; i < len(list); i++ {

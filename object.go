@@ -30,5 +30,4 @@ func useDict() {
 
 	fmt.Println(duck_1)
 	fmt.Println(duck_2)
-
 }
